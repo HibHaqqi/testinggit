@@ -7,7 +7,7 @@ function 	computFactorial(num) {
     return results;
 }
 
-console.log(computFactorial(3));
+console.log(computFactorial(120));
 
 
 
