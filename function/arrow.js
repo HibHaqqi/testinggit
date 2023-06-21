@@ -9,4 +9,4 @@ console.log(sale);
 hello = () => {
     return "hello";
 }
-console.log.apply(hello);
+console.log(hello);
