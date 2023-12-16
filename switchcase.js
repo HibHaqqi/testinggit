@@ -9,4 +9,7 @@ switch (hari) {
         break;
     default:
         console.log("tidaktahu")
+//
 }
+
+
